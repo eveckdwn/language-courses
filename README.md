@@ -61,4 +61,4 @@ Deploy your changes to production using [packaging](https://developer.salesforce
 
 This document is for my github class or for Test.
 
-new-branch-1
+new-branch-1 / new-branch-2
